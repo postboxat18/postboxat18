@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hello, I'm Aravinth Chinnasamy, a dedicated software developer with expertise in mobile and web development, particularly using Flutter. I thrive on building intuitive, user-friendly applications and have a passion for solving complex problems through code. Throughout my career, I’ve worked on various projects, from employee portals to patient management apps, always focusing on delivering seamless user experiences and efficient backend integrations. With a strong foundation in tools like Firebase, Android Studio, and the BLoC pattern, I continuously aim to stay at the forefront of technology and innovation. When I'm not coding, you'll find me exploring new frameworks and contributing to open-source projects on GitHub.
+Hello, I'm Aravinth Chinnasamy, a Lead Engineer passionate about building AI/ML technologies, including LLM systems, RAG architectures, LLaMA, Ollama, Groq, ChromaDB, and LangChain. My experience also includes machine learning techniques such as NER, SVM, text classification, and data mining, as well as OCR solutions using EasyOCR and Tesseract.
+Along with application development, I work extensively with scalable applications and intelligent systems. I specialize in Flutter development for cross-platform mobile and web applications, focusing on clean architecture and the BLoC pattern to create maintainable and user-friendly solutions.
+I enjoy solving complex problems by combining modern software development with AI-driven approaches. I also build open-source Flutter packages and Python utilities, sharing them on GitHub to help developers simplify common development challenges.
+When I’m not coding, I enjoy exploring new technologies, experimenting with AI workflows, and contributing to open-source projects.
 
 
 ## 🌐 Socials:
